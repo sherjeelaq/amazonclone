@@ -8,7 +8,7 @@
   <h3 align="center">Amazon Clone</h3>
 
   <p align="center">
-    Amazon Clone created using React.js and React Context API where users can manipulate items.
+    Amazon Clone created using React.js and React Context API where users can login, register, logout and manipulate items.
     <br />
     <a href="https://github.com/sherjeelaq/amazonclone"><strong>Explore the docs »</strong></a>
     <br />
